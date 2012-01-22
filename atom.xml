@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://xzonisy.github.com/atom.xml" rel="self"/>
   <link href="http://xzonisy.github.com/"/>
-  <updated>2012-01-22T13:26:48+08:00</updated>
+  <updated>2012-01-22T13:45:00+08:00</updated>
   <id>http://xzonisy.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇文章]]></title>
+    <link href="http://xzonisy.github.com/blog/2012/01/22/new/"/>
+    <updated>2012-01-22T13:35:00+08:00</updated>
+    <id>http://xzonisy.github.com/blog/2012/01/22/new</id>
+    <content type="html"><![CDATA[<p>來開始學寫 code</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
